@@ -4,3 +4,5 @@ Clone
 Add
 Commit
 Push
+Pull
+Status
